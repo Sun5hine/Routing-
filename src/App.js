@@ -11,7 +11,7 @@ class App extends Component {
      
       
        
-        <h3> testing !</h3>
+        <h3> testing... !</h3>
       </div>
     );
   }
